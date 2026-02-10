@@ -2,7 +2,7 @@
 
 **Proof-of-Concept: Stylish Matrix/Cyberpunk-style XSS alert popup**
 
-![XSS Popup Example](example-screenshot.png)
+![XSS Popup Example](Screenshot_Xss.png)
 
 A tiny, self-contained JavaScript payload that creates a dramatic, "hacker-movie"-looking overlay popup — useful for demonstrating reflected/stored XSS during security trainings, bug bounty reports, CTF challenges, or red-team exercises.
 
